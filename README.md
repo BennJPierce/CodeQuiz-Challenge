@@ -3,7 +3,7 @@
 This is a JavaScript quiz application that allows users to test their knowledge of JavaScript concepts and syntax. The quiz presents multiple-choice questions, keeps track of the user's score, and provides a timer for each question.
 
  ![Alt text](<assets/Screenshot 2023-06-12 215949.png>)
-
+https://bennjpierce.github.io/CodeQuiz-Challenge/ 
 ## Instalation 
 N/A
 
